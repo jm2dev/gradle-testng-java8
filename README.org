@@ -1,10 +1,10 @@
-#+title: Export citations
+#+title: Simple gradle with testng project
 #+author: José Miguel
 #+email: jm@0pt1mates.com
 
 * Abstract
 
-Very simple project to build a method to generate a web response.
+Very simple project to be used as a template for gradle projects.
 
 * Time report                                                      :noexport:
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
@@ -21,6 +21,9 @@ Very simple project to build a method to generate a web response.
 ** DONE Setup
    CLOSED: [2014-10-13 Mon 20:46]
    CLOCK: [2014-10-13 Mon 20:36]--[2014-10-13 Mon 20:46] =>  0:10
-** DONE Refactor Drew's implementation
+** DONE Simple implementation
    CLOSED: [2014-10-13 Mon 21:08]
    CLOCK: [2014-10-13 Mon 20:47]--[2014-10-13 Mon 21:08] =>  0:21
+** DONE Implementation using stream api
+   CLOSED: [2014-10-13 Mon 22:28]
+   CLOCK: [2014-10-13 Mon 22:07]--[2014-10-13 Mon 22:28] =>  0:21
