@@ -1,0 +1,21 @@
+#+title: Export citations
+#+author: José Miguel
+#+email: jm@0pt1mates.com
+
+* Abstract
+
+Very simple project to build a method to generate a web response.
+
+* Time report                                                      :noexport:
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+#+CAPTION: Clock summary at [2014-10-13 Mon 20:36]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
+** DONE Setup
+   CLOSED: [2014-10-13 Mon 20:46]
+   CLOCK: [2014-10-13 Mon 20:36]--[2014-10-13 Mon 20:46] =>  0:10
+** TODO Refactor Drew's implementation
+   CLOCK: [2014-10-13 Mon 20:47]
