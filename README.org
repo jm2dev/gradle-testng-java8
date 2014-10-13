@@ -8,14 +8,19 @@ Very simple project to build a method to generate a web response.
 
 * Time report                                                      :noexport:
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
-#+CAPTION: Clock summary at [2014-10-13 Mon 20:36]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
+#+CAPTION: Clock summary at [2014-10-13 Mon 21:09]
+| Headline                                  | Time   |      |
+|-------------------------------------------+--------+------|
+| *Total time*                              | *0:31* |      |
+|-------------------------------------------+--------+------|
+| Time report                               | 0:31   |      |
+| \emsp DONE Setup                          |        | 0:10 |
+| \emsp DONE Refactor Drew's implementation |        | 0:21 |
 #+END:
 
 ** DONE Setup
    CLOSED: [2014-10-13 Mon 20:46]
    CLOCK: [2014-10-13 Mon 20:36]--[2014-10-13 Mon 20:46] =>  0:10
-** TODO Refactor Drew's implementation
-   CLOCK: [2014-10-13 Mon 20:47]
+** DONE Refactor Drew's implementation
+   CLOSED: [2014-10-13 Mon 21:08]
+   CLOCK: [2014-10-13 Mon 20:47]--[2014-10-13 Mon 21:08] =>  0:21
