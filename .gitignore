@@ -1,2 +1,7 @@
 gradle/
 gradlew*
+.gradle/
+.idea/
+build/
+*.iml
+README.html

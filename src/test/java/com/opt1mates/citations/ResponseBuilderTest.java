@@ -50,6 +50,7 @@ public class ResponseBuilderTest {
         Stream<Citation> citations = Stream.of(RIS, BIBTEX, ASCII);
 
         Optional<Citation> optionalCitation = citations.filter(citation -> citation.getFormat().equalsIgnoreCase(format)).findFirst();
+
         return optionalCitation.orElse(ASCII).getContentType();
     }
 
